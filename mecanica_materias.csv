@@ -1,0 +1,65 @@
+Serie,Codigo,Nome,Créditos,Horas
+1,ESTBAS001,Álgebra Linear I,4,60
+1,ESTBAS002,Cálculo I,6,90
+1,ESTBAS003,Introdução à Engenharia,2,30
+1,ESTBAS004,Introdução às Ciências do Ambiente,2,30
+1,ESTBAS005,Química Geral,4,60
+1,ESTBAS006,Comunicação e Expressão,4,60
+1,ESTBAS007,Física I,4,60
+1,ESTECP001,Linguagem de Programação I,4,60
+2,ESTBAS008,Álgebra Linear II,4,60
+2,ESTBAS009,Cálculo II,4,75
+2,ESTBAS010,Desenho Básico,3,45
+2,ESTBAS011,Introdução à Administração,3,45
+2,ESTBAS012,Probabilidade e Estatística,4,60
+2,ESTBAS013,Física II,4,60
+2,ESTBAS017,Introdução à Economia,3,45
+2,ESTECP002,Linguagem de Programação II,4,60
+3,ESTBAS014,Cálculo III,5,75
+3,ESTBAS015,Física III,4,60
+3,ESTBAS016,Laboratório de Física I,1,30
+3,ESTBAS022,Prática Profissional e Ética,2,30
+3,ESTBAS029,Desenho Mecânico,4,60
+3,ESTECI002,Mecânica I,4,60
+3,ESTBAS049,Cálculo Numérico,4,60
+4,ESTBAS018,Física IV,4,60
+4,ESTBAS019,Cálculo IV,4,60
+4,ESTBAS020,Laboratório de Física II,1,30
+4,ESTEME005,Introdução ao Projeto de Sistemas Mecânicos,4,60
+4,ESTEME002,Introdução à Manufatura Mecânica,4,60
+4,ESTEME003,Mecânica II,4,60
+4,ESTEEL055,Eletricidade Geral,4,60
+5,ESTEME007,Materiais para Construção Mecânica I,4,60
+5,ESTEME004,Mecânica dos Fluídos,4,60
+5,ESTEME001,Mecânica dos Sólidos I,4,60
+5,ESTEME009,Metrologia Dimensional,4,60
+5,ESTEMT003,Controle e Automação I,4,60
+5,ESTEME017,Mecanismos,4,60
+5,ESTECI024,Higiene e Segurança do Trabalho,4,60
+6,ESTEME008,Termodinâmica,6,90
+6,ESTEME061,Materiais para Construção Mecânica II,5,90
+6,ESTEME062,Processos de Usinagem,5,90
+6,ESTEME006,Mecânica dos Sólidos II,4,60
+6,ESTEME036,Introdução ao Método dos Elementos Finitos,4,60
+6,ESTEME063,Processos de Soldagem,5,90
+6,ESTEEL056,Laboratório de Eletricidade Geral,1,30
+7,ESTEME013,Transmissão de Calor,4,60
+7,ESTEME014,Vibrações Mecânicas,4,60
+7,ESTEME018,Elementos de Máquinas,4,60
+7,ESTEME077,Fluidodinâmica Computacional,4,60
+7,ESTEME023,Máquinas Hidráulicas,4,60
+7,ESTEME042,Sistemas Eletropneumáticos,4,60
+7,ESTEME078,Estágio Supervisionado em Engenharia Mecânica,15,450
+8,ESTBAS024,Administração da Produção,4,60
+8,ESTEME025,Motores de Combustão Interna,4,60
+8,ESTEME015,Refrigeração e Ar Condicionado,4,60
+8,ESTEME021,Normalização e Confiabilidade,4,60
+8,ESTEME080,Estágio Supervisionado em Engenharia Mecânica II,15,450
+8,ESTEME068,Laboratório de Ciências Térmicas,1,30
+8,ESTEME020,Projeto de Máquinas,4,60
+9,ESTEME090,Manufatura Assistida por Computador - CAD/CAM,5,90
+9,ESTEME024,Máquinas Térmicas,4,60
+9,ESTEME026,Lubrificação e Manutenção Industrial,4,60
+9,ESTEME027,Trabalho de Conclusão de Curso I - Engenharia Mecânica,2,30
+10,ESTEME028,Tópicos Especiais em Engenharia Mecânica,4,60
+10,ESTEME029,Trabalho de Conclusão de Curso II - Engenharia Mecânica,2,30
